@@ -1,0 +1,16 @@
+.come-soon-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    color: #363535;
+}
+
+.come-soon{
+    width: auto;
+    font-family: Caveat;
+}   
+
+.come-soon p {
+    font-size: 22px;
+}
